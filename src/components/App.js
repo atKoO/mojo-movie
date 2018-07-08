@@ -35,7 +35,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header text="Discover Your Movie Mojo!" />
-        <p className="App-intro">Sharing are the a few of our favourite movies</p>
+        <p className="App-intro">Sharing also are the a few of our favourite movies</p>
         <div className="movies">
           {
             Object
